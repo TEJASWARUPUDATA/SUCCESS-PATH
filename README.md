@@ -20,7 +20,7 @@ Static Web App URL : https://kind-desert-011fdf710.3.azurestaticapps.net
 
 Static website URL(Using Storage accounts) : https://successpath.z29.web.core.windows.net/
 
-## Project Demo URL : https://tejaswarupudata.github.io/SUCCESS-PATH/
+## Project Demo URL : https://drive.google.com/file/d/17YUdoiGlNyd0VjqlN195uhmCGRLYTU94/view?usp=drive_link
 
 My Website Link: https://kind-desert-011fdf710.3.azurestaticapps.net
 
