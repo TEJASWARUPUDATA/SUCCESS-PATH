@@ -22,7 +22,7 @@ Static website URL(Using Storage accounts) : https://successpath.z29.web.core.wi
 
 ## project demo URL : https://tejaswarupudata.github.io/SUCCESS-PATH/
 
-## Project Demo video URL : https://drive.google.com/file/d/17YUdoiGlNyd0VjqlN195uhmCGRLYTU94/view?usp=drive_link
+## Project Demo video URL : https://drive.google.com/file/d/1EC7L7vNI8K8HC_GKpWY-b0ZRUejPozmM/view?usp=sharing
 
 My Website Link: https://kind-desert-011fdf710.3.azurestaticapps.net
 
